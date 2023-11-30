@@ -1,0 +1,32 @@
+last_run_date: '2000-01-01'
+
+username:
+
+password:
+
+staffID:
+
+portalid:
+  PortalGuid:
+
+headers: 
+
+loginURL:
+
+startURL:
+
+homeURLstart:
+
+homeURLend: '&UIXLMID=5&refreshMID=1'
+
+scheduleURL:
+
+tipsURL:
+
+dbhost:
+
+dbusername:
+
+dbpassword:
+
+dbschema:
