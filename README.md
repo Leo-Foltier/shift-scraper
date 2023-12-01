@@ -23,7 +23,7 @@ The program uses my company login  and webpage information to gather the nesseca
 
     - Schedule
 
-        |week_beginning|day_|sm_start|sm_end|w_start|w_end|holiday|
+        | week_beginning | day_ | sm_start | sm_end | w_start | w_end | holiday |
         |:---:|:---:|:---:||:---:|:---:|:---:|:---:|
         |##-##-##|'day'|##:##|##:##|##:##|##:##|true/false|
 
