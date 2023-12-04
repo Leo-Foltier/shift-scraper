@@ -11,13 +11,13 @@ The program uses my company login  and webpage information to gather the nesseca
 
 ## Installation
 
-- Install required packages using 'requirements.txt' in the program folder with:
+- Install required packages using `requirements.txt` in the program folder with:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-- Make sure to update 'config.yml' with required data. e.g. database login, correct website urls, etc
+- Make sure to update `config.yml` with required data. e.g. database login, correct website urls, etc
 
 - Setup a MySql database (see https://dev.mysql.com/doc/mysql-getting-started/en/ if unsure) and create the following tables:
 
